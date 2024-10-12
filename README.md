@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nurzarina
-- 👀 I’m interested in web development.
+- 👀 I’m new to web development.
 - 🌱 I’m currently learning Full Stack Development.
 - 📫 How to reach me https://www.linkedin.com/in/nurzarina-os/
 
