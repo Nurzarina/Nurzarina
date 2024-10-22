@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nurzarina.
 - 👀 I’m new to web development.
 - 🌱 I’m currently learning Full Stack Development.
-- 🖥 I'm also brushing up my RTL design.
+- 🖥  I'm also brushing up my RTL knowledge.
 - 📫 How to reach me https://www.linkedin.com/in/nurzarina-os/
 
 <!---
