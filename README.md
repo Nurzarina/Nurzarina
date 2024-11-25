@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Nurzarina.
-- 👀 I’m new to web development.
-- 🌱 I’m currently learning Full Stack Development.
-- 🖥  I'm also brushing up my RTL knowledge.
-- 📫 How to reach me https://www.linkedin.com/in/nurzarina-os/
+## About Me
+- 👀 A web developer passionate about building functional, responsive, and user-friendly websites.
+- ⚛️ Specialize in React, 🔧 Node.js, and building dynamic full-stack applications 🌐.
+
+
+## Portfolio
+- 🎨 **RTist Portfolio**: Explore my creative and design work on [RTist](https://www.rtist.co/nurzarinaos).  
+- 🌐 **Carrd Portfolio**: View my personal website and highlights on [Carrd](https://nurzarinaos.carrd.co/).
+
+## Let's Connect!
+- 📫 **LinkedIn** Connect with me at LinkedIn: [LinkedIn](https://www.linkedin.com/in/nurzarina-os/).
 
 <!---
 Nurzarina/Nurzarina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
