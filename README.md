@@ -1,7 +1,5 @@
 ## About Me
 - 👀 A web developer passionate about building functional, responsive, and user-friendly websites.
-- ⚛️ Specialize in React, 🔧 Node.js, and building dynamic full-stack applications 🌐.
-
 
 ## Portfolio
 - 🎨 **RTist Portfolio**: Explore my creative and design work on [RTist](https://www.rtist.co/nurzarinaos).  
