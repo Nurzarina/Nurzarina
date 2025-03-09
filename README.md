@@ -1,9 +1,8 @@
 ## About Me
-- 👀 A web developer passionate about building functional, responsive, and user-friendly websites.
+- 👀✨️ A web developer passionate about building functional, responsive, and user-friendly websites.
 
 ## Portfolio
-- 🎨 **RTist Portfolio**: Explore my creative and design work on [RTist](https://www.rtist.co/nurzarinaos).  
-- 🌐 **Carrd Portfolio**: View my personal website and highlights on [Carrd](https://nurzarinaos.carrd.co/).
+- 🎨 **RTist Portfolio**: Visuals of my projects can be found on [RTist](https://www.rtist.co/nurzarinaos).
 
 ## Let's Connect!
 - 📫 **LinkedIn** Connect with me at LinkedIn: [LinkedIn](https://www.linkedin.com/in/nurzarina-os/).
