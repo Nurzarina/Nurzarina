@@ -7,12 +7,14 @@
 ### Web Design
 - 🎨 **RTist Portfolio**: Visuals of my projects can be found on [RTist](https://www.rtist.co/nurzarinaos).
 
+
 ## Projects
-### Python
+#### Python
 1. habit_tracker_cli: https://github.com/Nurzarina/habit_tracker_cli
 
 
-### Other Tech Stack
+#### HTML, CSS, JS (frontend) and FastAPI (backend)
+1. mandarin_notes_api: https://github.com/Nurzarina/mandarin_notes_api
 
 
 #### HTML and CSS
