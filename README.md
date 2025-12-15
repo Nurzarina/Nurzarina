@@ -1,5 +1,5 @@
 ## About Me
-- 👀✨️ A web developer currently learning python for backend development.
+- 👀✨️ A web developer currently learning python and cybersecurity for backend development.
 
 ## Portfolio
 
@@ -8,11 +8,11 @@
 - 🎨 **RTist Portfolio**: Visuals of my projects can be found on [RTist](https://www.rtist.co/nurzarinaos).
 
 
-### Tech Stack
+### Python Projects
+1. habit_tracker_cli: https://github.com/Nurzarina/habit_tracker_cli
 
-#### Python
 
-1. weather_app_cli : https://github.com/Nurzarina/weather_app_cli
+### Other Tech Stack
 
 
 #### HTML and CSS
@@ -24,6 +24,7 @@
 
 1. Clock Theme Customizer : https://github.com/Nurzarina/Clock
 2. Fireworks Generator With A Waving Jalur Gemilang Flag: https://github.com/Nurzarina/Jalur_Gemilang_with_Fireworks
+3. ramadhan_fasting_niyyah: https://github.com/Nurzarina/ramadhan_fasting_niyyah
 
 
 #### MERN stack
