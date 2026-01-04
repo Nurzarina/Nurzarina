@@ -10,7 +10,8 @@
 
 ## Projects
 #### Python
-1. habit_tracker_cli: https://github.com/Nurzarina/habit_tracker_cli
+1. FlightCostCalculator (private): https://github.com/Nurzarina/FlightCostCalculator
+2. habit_tracker_cli: https://github.com/Nurzarina/habit_tracker_cli
 
 
 #### HTML, CSS, JS (frontend) and FastAPI (backend)
