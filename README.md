@@ -1,5 +1,5 @@
 ## About Me
-- 👀✨️ A web developer currently learning python and cybersecurity for backend development.
+- 👀✨️ A web developer currently learning python for backend development and React for frontend development.
 
 ## Portfolio
 
